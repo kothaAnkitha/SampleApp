@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp", "SampleApp\SampleApp.csproj", "{3076A125-7900-4513-8AE6-A7BF1626909B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp.Droid", "SampleApp.Droid\SampleApp.Droid.csproj", "{FA4DA10B-F5D2-4D60-ABEF-ECC2A9EF3D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3076A125-7900-4513-8AE6-A7BF1626909B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3076A125-7900-4513-8AE6-A7BF1626909B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3076A125-7900-4513-8AE6-A7BF1626909B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3076A125-7900-4513-8AE6-A7BF1626909B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA4DA10B-F5D2-4D60-ABEF-ECC2A9EF3D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4DA10B-F5D2-4D60-ABEF-ECC2A9EF3D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4DA10B-F5D2-4D60-ABEF-ECC2A9EF3D47}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FA4DA10B-F5D2-4D60-ABEF-ECC2A9EF3D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4DA10B-F5D2-4D60-ABEF-ECC2A9EF3D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA4DA10B-F5D2-4D60-ABEF-ECC2A9EF3D47}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12D9AF87-44FD-49CE-BB5A-CBB0B46D6013}
+	EndGlobalSection
+EndGlobal
